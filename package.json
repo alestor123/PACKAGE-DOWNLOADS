@@ -1,0 +1,19 @@
+{
+  "name": "package-downloads",
+  "version": "1.0.0",
+  "description": " This is a simple code for getting package download stats",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alestor123/PACKAGE-DOWNLOADS.git"
+  },
+  "author": "Alestor Aldous",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alestor123/PACKAGE-DOWNLOADS/issues"
+  },
+  "homepage": "https://github.com/alestor123/PACKAGE-DOWNLOADS#readme"
+}
