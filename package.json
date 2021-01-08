@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": " This is a simple code for getting package download stats",
   "main": "App.js",
+  "bin": {
+    "package-downloads": "cli.js"
+  },
+
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
